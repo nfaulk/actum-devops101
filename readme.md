@@ -1,4 +1,4 @@
-1. Prerequisites for the demo
+1. Prerequisites for the demo - something changed
     - NodeJs https://nodejs.org/en/download
     - Visual Studio Code https://code.visualstudio.com/download
     - GitHub account created https://github.com/
